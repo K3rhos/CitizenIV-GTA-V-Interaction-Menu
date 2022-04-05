@@ -16,3 +16,7 @@ GTA V Interaction Menu remade for [CitizenIV](https://citizeniv.net/)
 - [x] Option
 - [x] Submenus
 - [x] Sounds when scrolling, toggling, etc...
+
+# How to install ?
+
+Just drag & drop the folder (inside the archive) named "interaction_menu" and add "- interaction_menu" (without brackets) to your server config in the "AutoStartResources" section. Enjoy :)
