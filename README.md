@@ -9,12 +9,17 @@ GTA V Interaction Menu remade for [CitizenIV](https://citizeniv.net/)
 
 ![CitizenIV_L0I4a1vrKb](https://user-images.githubusercontent.com/30273537/161672500-fbcd6b22-b122-4281-89df-a7370a0cef11.png)
 
+- [x] Keyboard Support
+- [x] Controller Support
+- [x] Mouse Support
+
 - [x] Boolean Option
 - [x] Integer Option
 - [x] Float Option
 - [ ] Array Option
 - [x] Option
 - [x] Submenus
+
 - [x] Sounds when scrolling, toggling, etc...
 
 # How to install ?
