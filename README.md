@@ -14,5 +14,5 @@ GTA V Interaction Menu remade for [CitizenIV](https://citizeniv.net/)
 - [x] Float Option
 - [ ] Array Option
 - [x] Option
-
 - [x] Submenus
+- [x] Sounds when scrolling, toggling, etc...
