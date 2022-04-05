@@ -11,7 +11,7 @@ GTA V Interaction Menu remade for [CitizenIV](https://citizeniv.net/)
 
 - [x] Keyboard Support
 - [x] Controller Support
-- [x] Mouse Support
+- [ ] Mouse Support
 
 - [x] Boolean Option
 - [x] Integer Option
